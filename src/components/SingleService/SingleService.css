@@ -1,0 +1,22 @@
+
+
+.card{
+    /* height: 22rem; */
+    transition: 0.4s;
+    border-radius: 7px;
+}
+
+.card:hover{
+    box-shadow: 10px 10px 24px -13px rgba(0, 0, 0, 0.75);
+    /* cursor: pointer; */
+}
+
+.card-link{
+    text-decoration: none;
+    color: grey;
+}
+
+/* .card-link:hover .learn-more-btn{
+    background-color: #0E6832;
+    color: white;
+} */

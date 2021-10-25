@@ -1,0 +1,31 @@
+
+
+/* global styles */
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.custom-green-btn{
+  background-color: #0E6832;
+  color: white;
+}
+
+.custom-green-btn:hover{
+  background-color: #0E6832;
+  color: white;
+}
+
+.custom-green-color{
+  color: #0E6832;
+}
+
+.page-title-container{
+  height: 300px;
+  width: 100%;
+  background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("./images/header.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
